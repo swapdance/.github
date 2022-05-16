@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#### Swap.Dance is an Ethereum dApp which allows anyone to swap ERC20 tokens and ETH with low slippage. 
+Swap.Dance is an Ethereum dApp which allows anyone to swap ERC20 tokens and ETH with low slippage. 
 
-#### The Proof of Trade (PoT) provides a new mechanism of staking. Rather than a traditional staking, that is based on the timeline, the PoT protocol uses a count of trades that have been made on AMM
+The Proof of Trade (PoT) provides a new mechanism of staking. Rather than a traditional staking, that is based on the timeline, the PoT protocol uses a count of trades that have been made on AMM.
 
 <!--
 
